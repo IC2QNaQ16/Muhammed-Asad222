@@ -1,0 +1,72 @@
+@media only screen and (min-width: 1025px) {
+}
+
+
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+}
+
+
+
+@media only screen and (max-width: 480px) {
+    .name h2{
+        font-size: 18px;
+        text-align: center;
+
+    }
+
+    .nav-bar{
+        font-size: 14px;
+
+    }
+
+    .nav-bar{
+        display: block;
+    }
+
+   
+    .right-side{
+        padding: 30px;
+    }
+
+    #introdution{
+        display: inline-block;
+        text-align: center;
+    }
+
+    .main-boxes{
+        display: block;
+        justify-content: center;
+        align-items: center;
+        padding: 30px;
+    }
+
+    .nav-bar ul{
+        gap: 40px;
+    }
+
+    .sources{
+        width: 340px;
+        height: 310px;
+    }
+
+    .touch{
+        display: inline-block;
+    }
+    input{
+        width: 250px;
+        height: 25px;
+    }
+
+    .image-right2 img{
+        width: 350px;
+        height: 400px;
+    }
+
+
+.crafted-by
+{
+    display: block;
+    font-size: 15px;
+}
+
+}
